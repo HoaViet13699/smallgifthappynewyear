@@ -10,7 +10,7 @@ const textConfig = {
   text9: "T đùa đấy, next đi",
   text10: "^^",
   text11:
-    "C có gì muốn nói với t thì rep t qua insta hoặc messenger nhé, à không biết c xem phim 'Happy new year' của Hàn có Lee Dong-wook đóng chưa,một bộ phim chữa lành, nếu chưa thì ấn xem bên dưới nhé",
+    "C có gì muốn nói với t thì rep t qua insta hoặc messenger nhé, à t thấy có bài đăng này trên insta khá cute hay c thử đọc nhé! ",
   text12: "Ok xem luôn",
 };
 
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://dongchill.tv/xem-phim-happy-new-year-2021/157778-8651.html";
+            window.location = "https://www.instagram.com/p/C2olNuovY4v/?img_index=2";
           },
         });
       }
